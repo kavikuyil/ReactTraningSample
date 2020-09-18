@@ -1,0 +1,68 @@
+<html>
+<title>
+    web page
+</title>
+<style>
+    table,  td {
+      border: 1px solid black;
+    }
+    </style>
+<body>
+    
+    <h1> Name list</h1>
+    <ul style="list-style: circle;">
+    <li> kavi</li>
+    <li> ravi</li>
+    <li> savi</li>
+    </ul>
+    <ul style="list-style: disc;">
+    <li> jasmine</li>
+    <li> rose</li>
+    </ul>
+
+    <img src="C:\Users\kAVIKUYILK\Pictures\Birthday2.jpg" width="460" height="345">
+   
+    <table>
+        <tr>
+            <td>  india</td>
+            <td>  temple</td>
+            <td> famous </td>
+        </tr>
+        <tr>
+            <td> usaa</td>
+            <td> store </td>
+            <td> choclate</td>
+        </tr>
+        <tr>
+            <td>  pakistan</td>
+            <td> green</td>
+            <td> vegetable </td>
+        </tr>
+        <tr>
+            <td>  uk</td>
+            <td> flight </td>
+            <td> famous </td>
+        </tr>
+    </table>
+    
+    <form>
+        <h1>Gender</h1>
+        <input type ="radio"  name="gender">
+        <lable>male</lable><br>
+        <input type="radio"  name="gender">
+        <lable>female</lable><br>
+        <input type ="radio"  name="gender">
+        <lable>other</label> <br> 
+    </form>
+
+    <h1>State</h1>
+    <select>
+        <option> TN</option>
+        <option> KN</option>
+        <option> K</option>
+        <option> AP</option>
+        <option> MI</option>
+    </select>
+
+</body>
+</html>
